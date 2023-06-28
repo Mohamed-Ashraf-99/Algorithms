@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Programming\Mohamed Moshrif (Fundmental)\Lec\5-Alghrohims\1-Session1\My-Code\1-Search\1-Search\Source.cpp(37,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Programming\Mohamed Moshrif (Fundmental)\Lec\5-Alghrohims\1-Session1\My-Code\1-Search\1-Search\Source.cpp(34): warning C4715: 'BinarySearch': not all control paths return a value
+  1-Search.vcxproj -> D:\Programming\Mohamed Moshrif (Fundmental)\Lec\5-Alghrohims\1-Session1\My-Code\1-Search\x64\Debug\1-Search.exe
